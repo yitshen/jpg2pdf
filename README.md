@@ -1,2 +1,2 @@
 # jpg2pdf
-batch convert jpgs to pdf 
+The python script converts the folders containing jpgs to pdf files.
