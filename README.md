@@ -1,2 +1,2 @@
 # jpg2pdf
-Convert jpgs to pdf
+batch convert jpgs to pdf 
